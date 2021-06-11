@@ -4,7 +4,7 @@ public class OcorrenciaLatrocinio extends OcorrenciaPolicial implements Morte, R
 
 	private int valorRoubado;
 	private String localAssassinato;
-
+	
 	public int getValorRoubado() {
 		return valorRoubado;
 	}
